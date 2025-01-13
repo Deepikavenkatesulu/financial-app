@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react()], build: {
     outDir: 'dist',  // By default, Vite builds to the 'dist' folder
   },
-  base: '/financialapp/'
+  base: '/financial-app/'
 })
